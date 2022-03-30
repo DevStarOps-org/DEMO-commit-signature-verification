@@ -18,3 +18,5 @@ Another change again 2
 Signed local change
 
 another signed change
+
+last signed change
